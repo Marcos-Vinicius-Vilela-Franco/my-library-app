@@ -1,0 +1,17 @@
+# Ignore node_modules
+frontend/node_modules/
+
+# Ignore build outputs
+frontend/build/
+
+# Ignore .env files
+frontend/.env
+
+# Ignore target directory
+backend/target/
+
+# Ignore IDE/editor specific files
+*.iml
+*.idea/
+*.vscode/
+.DS_Store
